@@ -1,8 +1,13 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    
+}
 nav{
     background-color: lightgray;
     height: 10vh;
     width: 100%;
-    margin: 0;
+
 }
 .blue_box{
     display: inline-block;
