@@ -1,0 +1,66 @@
+
+.dot {
+    height: 150px;
+    width: 150px;
+    background-color: lightblue;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 10px
+  }
+  nav {
+      background-color: white;
+      height: 23vh;
+      width: 95%;
+      margin: auto;
+  border: 4px solid black;
+  }
+  .up_retangle{
+      background-color: purple;
+      height: 110px;
+      width: 30px;
+      display: inline-block;
+      margin: 10px;
+      
+  }
+  .down_retangle {
+      background-color: green;
+      height: 160px;
+      width: 325px;
+      display: inline-block;
+  }
+  .dotted {
+background-color: white;
+height: 31vh;
+width: 95%;
+border: 4px dotted black;
+margin: 20px
+  }
+  .tan_retangle{
+      display: inline-block;
+      background-color: #FEFEC1;
+      height: 23vh;
+      width: 93%;
+      margin:  23px;
+      box-shadow: 7px 7px 4px #6a6a6a;
+  }
+  .hello_friends{
+      background-color: white;
+      height: 35vh;
+      width: 55%;
+      border: 1px solid #dadada;
+      margin: auto;
+      box-shadow: 3px 3px 1px #dadada;
+      
+  }
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: navy;
+    letter-spacing: 10px;
+    width: 100%;
+   
+
+}
+.hefri{
+    padding: 80px;
+}
